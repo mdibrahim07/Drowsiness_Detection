@@ -16,7 +16,7 @@ The Driver Drowsiness Detection System is a real-time safety tool that uses comp
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/drowsiness-detection.git
+   git clone https://github.com/mdibrahim07/drowsiness-detection.git
    cd drowsiness-detection
    ```
 2. Install the required Python libraries:
