@@ -35,7 +35,7 @@ The Driver Drowsiness Detection System is a real-time safety tool that uses comp
 3. Press `q` to exit the application.
 
 ## Files
-- **drowsiness_detection.py**: Main script for the project.
+- **DROWSINESS_YAWN_F.py**: Main script for the project.
 - **haarcascade_frontalface_default.xml**: Haar cascade for face detection.
 - **shape_predictor_68_face_landmarks.dat**: Dlib shape predictor for facial landmarks.
 - **requirements.txt**: List of required Python libraries.
